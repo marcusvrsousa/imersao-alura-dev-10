@@ -1,0 +1,162 @@
+[
+  {
+    "nome": "Meditação Guiada",
+    "descricao": "Prática de atenção plena conduzida pela voz, ajudando a relaxar e focar no presente.",
+    "tempo_recomendado": "10 a 20 minutos",
+    "categoria": "mindfulness",
+    "imagem": "https://images.unsplash.com/photo-1523978591478-c753949ff840",
+    "link": "https://www.youtube.com/watch?v=C-oCld63cUY"
+  },
+  {
+    "nome": "Respiração 4-7-8",
+    "descricao": "Técnica de respiração usada para reduzir ansiedade e acalmar o sistema nervoso.",
+    "tempo_recomendado": "2 a 5 minutos",
+    "categoria": "respiração",
+    "imagem": "https://images.unsplash.com/photo-1527236438218-d82077ae1f85",
+    "link": "https://www.youtube.com/watch?v=2Wl6dYxpGGE"
+  },
+  {
+    "nome": "Alongamento Matinal",
+    "descricao": "Sequência simples para despertar o corpo, aliviar tensões e melhorar a postura.",
+    "tempo_recomendado": "5 a 10 minutos",
+    "categoria": "alongamento",
+    "imagem": "https://images.unsplash.com/photo-1599058917212-d750089bc07e",
+    "link": "https://www.youtube.com/watch?v=HYqR9IQk-jU"
+  },
+  {
+    "nome": "Yoga para Iniciantes",
+    "descricao": "Sequência suave de yoga para equilibrar corpo e mente, ideal para iniciantes.",
+    "tempo_recomendado": "10 a 15 minutos",
+    "categoria": "yoga",
+    "imagem": "https://images.unsplash.com/photo-1540206276207-3af25c08f9ae",
+    "link": "https://www.youtube.com/watch?v=GYdaJ7X5Cj8"
+  },
+  {
+    "nome": "Caminhada Consciente",
+    "descricao": "Caminhada feita com atenção plena aos passos, respiração e ambiente ao redor.",
+    "tempo_recomendado": "10 a 30 minutos",
+    "categoria": "mindfulness",
+    "imagem": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "link": "https://www.youtube.com/watch?v=gWJjRoYpO5k"
+  },
+  {
+    "nome": "Relaxamento Muscular Progressivo",
+    "descricao": "Consiste em tensionar e relaxar grupos musculares para reduzir estresse e ansiedade.",
+    "tempo_recomendado": "10 a 20 minutos",
+    "categoria": "relaxamento",
+    "imagem": "https://images.unsplash.com/photo-1526726538690-5cbf956ae2fd",
+    "link": "https://www.youtube.com/watch?v=mbE_XYR4iHs"
+  },
+  {
+    "nome": "Respiração Diafragmática",
+    "descricao": "Técnica de respiração profunda que melhora o foco e reduz o estresse.",
+    "tempo_recomendado": "3 a 5 minutos",
+    "categoria": "respiração",
+    "imagem": "https://images.unsplash.com/photo-1526676031257-c7c45bde4a38",
+    "link": "https://www.youtube.com/watch?v=KV3ulQdDGuE"
+  },
+  {
+    "nome": "Diário de Gratidão",
+    "descricao": "Prática de escrever motivos de gratidão para melhorar o humor e fortalecer positividade.",
+    "tempo_recomendado": "3 a 10 minutos",
+    "categoria": "reflexão",
+    "imagem": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "link": "https://www.youtube.com/watch?v=jJ5tqLh7h2I"
+  },
+  {
+    "nome": "Alongamento para Estresse",
+    "descricao": "Alongamentos leves para aliviar tensões acumuladas em ombros, pescoço e lombar.",
+    "tempo_recomendado": "5 a 10 minutos",
+    "categoria": "alongamento",
+    "imagem": "https://images.unsplash.com/photo-1599058918103-a8e28f27e966",
+    "link": "https://www.youtube.com/watch?v=29-AHrT6kXY"
+  },
+  {
+    "nome": "Técnica do Grounding",
+    "descricao": "Exercício de ancoragem mental que utiliza os cinco sentidos para reduzir ansiedade.",
+    "tempo_recomendado": "2 a 5 minutos",
+    "categoria": "mindfulness",
+    "imagem": "https://images.unsplash.com/photo-1527030280862-64139fba04ca",
+    "link": "https://www.youtube.com/watch?v=i0ET8KY-E8k"
+  },
+  {
+    "nome": "Auto-Massagem Facial",
+    "descricao": "Técnica simples para aliviar tensão no rosto, reduzir inchaço e relaxar os músculos faciais.",
+    "tempo_recomendado": "5 a 10 minutos",
+    "categoria": "relaxamento",
+    "imagem": "https://images.unsplash.com/photo-1599058917363-4a3b1ff1c3c7",
+    "link": "https://www.youtube.com/watch?v=exwq6Zizk9Y"
+  },
+  {
+    "nome": "Respiração Quadrada",
+    "descricao": "Técnica de respiração em quatro fases usada para acalmar a mente e melhorar o foco.",
+    "tempo_recomendado": "3 a 5 minutos",
+    "categoria": "respiração",
+    "imagem": "https://images.unsplash.com/photo-1527137342181-19aab11a8ee8",
+    "link": "https://www.youtube.com/watch?v=iSg5kI1QwDk"
+  },
+  {
+    "nome": "Relaxamento com Sons da Natureza",
+    "descricao": "Exercício de relaxamento ouvindo sons naturais para reduzir estresse e melhorar a concentração.",
+    "tempo_recomendado": "5 a 20 minutos",
+    "categoria": "relaxamento",
+    "imagem": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "link": "https://www.youtube.com/watch?v=RDZJTaIPGxI"
+  },
+  {
+    "nome": "Yoga Restaurativa",
+    "descricao": "Prática suave focada em relaxamento profundo, utilizando posturas sustentadas e respiração leve.",
+    "tempo_recomendado": "10 a 20 minutos",
+    "categoria": "yoga",
+    "imagem": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+    "link": "https://www.youtube.com/watch?v=HTy2PjPhSyU"
+  },
+  {
+    "nome": "Técnica 5-4-3-2-1",
+    "descricao": "Exercício rápido de grounding para reduzir ansiedade usando os cinco sentidos.",
+    "tempo_recomendado": "2 a 5 minutos",
+    "categoria": "mindfulness",
+    "imagem": "https://images.unsplash.com/photo-1527030280862-64139fba04ca",
+    "link": "https://www.youtube.com/watch?v=TtGm5jMMlFQ"
+  },
+  {
+    "nome": "Alongamento para Coluna",
+    "descricao": "Série de alongamentos focados na mobilidade da coluna e alívio de dores nas costas.",
+    "tempo_recomendado": "5 a 10 minutos",
+    "categoria": "alongamento",
+    "imagem": "https://images.unsplash.com/photo-1599058918103-a8e28f27e966",
+    "link": "https://www.youtube.com/watch?v=CMWkWq6H3a8"
+  },
+  {
+    "nome": "Respiração Alternada",
+    "descricao": "Técnica tradicional que equilibra os hemisférios do cérebro e reduz estresse.",
+    "tempo_recomendado": "3 a 8 minutos",
+    "categoria": "respiração",
+    "imagem": "https://images.unsplash.com/photo-1526676031257-c7c45bde4a38",
+    "link": "https://www.youtube.com/watch?v=rH9vU4L1Yrg"
+  },
+  {
+    "nome": "Meditação de Gratidão",
+    "descricao": "Prática guiada focada em cultivar sentimentos de reconhecimento e apreciação.",
+    "tempo_recomendado": "5 a 15 minutos",
+    "categoria": "mindfulness",
+    "imagem": "https://images.unsplash.com/photo-1523978591478-c753949ff840",
+    "link": "https://www.youtube.com/watch?v=1Y4IJuVvK4w"
+  },
+  {
+    "nome": "Relaxamento Corporal Total",
+    "descricao": "Exercício guiado que conduz ao relaxamento de cada parte do corpo, da cabeça aos pés.",
+    "tempo_recomendado": "10 a 20 minutos",
+    "categoria": "relaxamento",
+    "imagem": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "link": "https://www.youtube.com/watch?v=5uVt6p9R0gE"
+  },
+  {
+    "nome": "Alongamento para Pernas e Quadris",
+    "descricao": "Série de alongamentos fundamentais para liberar tensão acumulada e melhorar mobilidade.",
+    "tempo_recomendado": "5 a 10 minutos",
+    "categoria": "alongamento",
+    "imagem": "https://images.unsplash.com/photo-1599058917212-d750089bc07e",
+    "link": "https://www.youtube.com/watch?v=mFoP7S5C9V8"
+  }
+]
