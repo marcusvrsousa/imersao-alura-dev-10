@@ -5,7 +5,7 @@ Um projeto desenvolvido durante a Imersão Alura + Google Gemini, com o objetivo
 
 O projeto permite pesquisar práticas de bem-estar — como respiração, meditação, alongamentos e hábitos saudáveis — exibindo descrição, benefícios, imagens e vídeos em português.
 
-![Preview](./assets/mockup.png)
+![Preview](./assets/mockup2.png)
 
 🚀 Tecnologias Utilizadas
 
