@@ -43,3 +43,22 @@ Entregar valor com uma interface leve e intuitiva
 ▶️ Links de vídeos em português
 
 💡 Interface simples e agradável, com foco na experiência do usuário
+
+🖥️ Como Executar o Projeto
+
+Baixe ou clone o repositório:
+
+git clone https://github.com/seuusuario/guia-bem-estar.git
+
+
+Abra o arquivo index.html no navegador.
+
+Pronto! Não há necessidade de servidor ou instalações extras.
+
+🎨 Design
+
+Paleta em tons suaves de verde, combinada com branco para equilíbrio visual
+
+Fonte utilizada: Inter (Google Fonts)
+
+Layout minimalista e focado na legibilidade
