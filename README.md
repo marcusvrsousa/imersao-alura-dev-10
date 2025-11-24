@@ -19,45 +19,41 @@ O projeto permite pesquisar práticas de bem-estar — como respiração, medita
 
 🎯 Objetivo do Projeto
 
-Criar uma aplicação simples, porém criativa e funcional, capaz de:
+- Criar uma aplicação simples, porém criativa e funcional, capaz de:
 
-Ajudar o usuário a descobrir práticas de bem-estar rapidamente
+- Ajudar o usuário a descobrir práticas de bem-estar rapidamente
 
-Exibir informações de forma clara e amigável
+- Exibir informações de forma clara e amigável
 
-Mostrar vídeos e imagens de apoio
+- Mostrar vídeos e imagens de apoio
 
-Demonstrar domínio das tecnologias ensinadas na imersão
+- Demonstrar domínio das tecnologias ensinadas na imersão
 
-Entregar valor com uma interface leve e intuitiva
+- Entregar valor com uma interface leve e intuitiva
 
 📌 Funcionalidades
 
-🔍 Campo de busca por nome ou descrição
+- 🔍 Campo de busca por nome ou descrição
 
-🧘 Exibição de práticas com título, descrição e benefícios
+- 🧘 Exibição de práticas com título, descrição e benefícios
 
-🖼️ Imagens ilustrativas
+- 🖼️ Imagens ilustrativas
 
-▶️ Links de vídeos em português
+- ▶️ Links de vídeos em português
 
-💡 Interface simples e agradável, com foco na experiência do usuário
+-💡 Interface simples e agradável, com foco na experiência do usuário
 
-🖥️ Como Executar o Projeto
+- 🖥️ Como Executar o Projeto
 
-Baixe ou clone o repositório:
-
-git clone https://github.com/seuusuario/guia-bem-estar.git
-
-
-Abra o arquivo index.html no navegador.
-
-Pronto! Não há necessidade de servidor ou instalações extras.
+1. Baixe ou clone o repositório:
+   git clone https://github.com/marcusvrsousa/imersao-alura-dev-10
+2. Abra o arquivo index.html no navegador.
+3. Pronto! Não há necessidade de servidor ou instalações extras.
 
 🎨 Design
 
-Paleta em tons suaves de verde, combinada com branco para equilíbrio visual
+- Paleta em tons suaves de verde, combinada com branco para equilíbrio visual
 
-Fonte utilizada: Inter (Google Fonts)
+- Fonte utilizada: Inter (Google Fonts)
 
-Layout minimalista e focado na legibilidade
+- Layout minimalista e focado na legibilidade
