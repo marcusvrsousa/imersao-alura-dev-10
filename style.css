@@ -36,7 +36,7 @@ header {
     justify-content: space-around; /* Distribui os itens flex com espaço igual ao redor deles. */
     position: sticky; /* Mantém o cabeçalho fixo no topo da janela de visualização ao rolar. */
     top: 0; /* Define a posição do topo para o elemento sticky. */
-   background: rgba(59, 122, 87, 0.9);
+    background: rgba(59, 122, 87, 0.9);
 ; /* Fundo com transparência para o efeito de vidro */
     backdrop-filter: blur(10px); /* Efeito "vidro fosco" */
     z-index: 10; /* Define a ordem de empilhamento para que o cabeçalho fique sobre outros elementos. */
@@ -111,6 +111,11 @@ div input:focus {
     transition: background-color 0.2s ease, color 0.2s ease;
     background-color: var(--bg-color);
     color: var(--text-color);
+}
+
+.caixa-busca { /* Estilos para o botão em telas muito pequenas */
+    display: flex;
+ 
 }
 
 #botao-limpar:hover {
@@ -237,7 +242,7 @@ article a:hover {
     background-color: var(--bg-color); /* Define a cor de fundo. */
     padding: 15px 20px; /* Define o espaçamento interno. */
     border-top: 1px solid #3c4043; /* Adiciona uma borda na parte superior. */
-    font-size: 0.8rem; /* Define o tamanho da fonte. */
+    font-size: 0.9rem; /* Define o tamanho da fonte. */
 }
 
 .footer-location {
@@ -263,7 +268,7 @@ article a:hover {
     color: var(--primary-color); /* Muda a cor do link ao passar o mouse (variável --accent-color não definida, substituída por --primary-color). */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     header { /* Estilos para telas com largura máxima de 768px */
         flex-direction: column; /* Organiza os itens do cabeçalho em coluna em telas menores. */
         padding: 1rem; /* Reduz o espaçamento interno. */
@@ -286,12 +291,30 @@ article a:hover {
     article:hover { /* Estilos para o article em telas menores */
         transform: none; /* Remove o efeito de escala ao passar o mouse para evitar problemas de layout em dispositivos móveis. */
     }
+
+    .botoes-pesquisa { /* Estilos para o botão em telas muito pequenas */
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 70%;
+        margin: 1rem auto;
+    }
+
+    .caixa-busca{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .campo-busca{
+        width: 80%;
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 480px) {
     header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
-        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte. */
-        max-width: 70%; /* Define uma largura máxima para o título. */
+        font-size: 2rem; /* Reduz ainda mais o tamanho da fonte. */
         word-wrap: break-word; /* Permite que palavras longas quebrem para a próxima linha. */
     }
 
@@ -301,7 +324,7 @@ article a:hover {
     }
 
     article h2 { /* Estilos para o h2 do article em telas muito pequenas */
-        font-size: 1.3rem; /* Reduz o tamanho da fonte do título do artigo. */
+        font-size: 1.8rem; /* Reduz o tamanho da fonte do título do artigo. */
     }
 
     div { /* Estilos para a div do cabeçalho em telas muito pequenas */
@@ -311,12 +334,20 @@ article a:hover {
         flex-direction: column; /* Organiza os itens em coluna. */
         gap: 0.5rem; /* Define um espaçamento entre os itens. */
     }
+    
 
     .footer { /* Estilos para o rodapé em telas muito pequenas */
         display: none; /* Oculta o rodapé em telas muito pequenas para economizar espaço. */
     }
 
-    button { /* Estilos para o botão em telas muito pequenas */
+    .botoes-pesquisa { /* Estilos para o botão em telas muito pequenas */
+        display: flex;
+        flex-direction: row;
+        width: 70%;
         margin-top: 1rem; /* Adiciona uma margem no topo do botão. */
+    }
+
+    .caixa-busca {
+        width: 100%;
     }
 }
