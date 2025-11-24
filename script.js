@@ -18,7 +18,7 @@ function iniciarBusca() {
     const termoBusca = campoBusca.value.toLowerCase();
 
     if (!termoBusca) {
-        cardContainer.innerHTML = "";
+        renderizarCards(dados);
         return;
     }
 
@@ -61,4 +61,5 @@ function renderizarCards(dados) {
 function limparBusca() {
     campoBusca.value = "";
     cardContainer.innerHTML = "";
+    renderizarCards(dados);
 }
