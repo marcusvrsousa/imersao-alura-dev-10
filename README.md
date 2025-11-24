@@ -1,4 +1,3 @@
-.
 
 🌱 Guia de Práticas de Bem-Estar
 
@@ -8,15 +7,15 @@ O projeto permite pesquisar práticas de bem-estar — como respiração, medita
 
 🚀 Tecnologias Utilizadas
 
-HTML5 – estrutura da página
+- HTML5 – estrutura da página
 
-CSS3 – estilização e design responsivo
+- CSS3 – estilização e design responsivo
 
-JavaScript (ES6+) – lógica de busca e renderização
+- JavaScript (ES6+) – lógica de busca e renderização
 
-JSON – base de dados com práticas de bem-estar
+- JSON – base de dados com práticas de bem-estar
 
-Google Gemini Code Assistant – apoio no desenvolvimento do código
+- Google Gemini Code Assistant – apoio no desenvolvimento do código
 
 🎯 Objetivo do Projeto
 
